@@ -37,7 +37,7 @@ Microsoft Excel
 - Drug use and alcohol use disorder by countries
 - Rate of depression and anxiety disorder
 - Depression rate trend by year
-- Top 10 countries with average anxiety disorder rate
+- Top 5 countries with average anxiety disorder rate
 
 Slicers:
  Year
