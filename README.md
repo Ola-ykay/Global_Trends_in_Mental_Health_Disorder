@@ -33,11 +33,20 @@ Microsoft Excel
 - Total Countries
   
 ## Insights
-- Top 10 countries with high depression rate
-- Drug use and alcohol use disorder by countries
-- Rate of depression and anxiety disorder
-- Depression rate trend by year
-- Top 5 countries with average anxiety disorder rate
+🔹 Top 10 Countries with High Depression Rate:
+Greenland leads the list—this insight highlights where support is most urgently needed.
+
+🔹 Drug & Alcohol Use Disorder by Countries:
+The U.S. recorded the highest rates in both categories, showcasing the importance of substance abuse awareness.
+
+🔹 Depression vs. Anxiety Disorder Rates:
+Depression accounts for 53% of the global share, while anxiety follows closely at 47%.
+
+🔹 Depression Rate Trend by Year:
+Reveals how mental health has evolved over time—helpful for tracking policy impact and awareness efforts.
+
+🔹 Top 5 Countries with Average Anxiety Rates:
+New Zealand ranks highest for anxiety disorder prevalence.
 
 Slicers:
  Year
