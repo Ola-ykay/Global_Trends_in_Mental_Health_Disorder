@@ -44,6 +44,7 @@ Slicers:
     
 ## Data Visualization 
 ![table](https://github.com/Ola-ykay/Global_Trends_in_Mental_Health_Disorder/blob/main/mental-disorder-table.png)
+![analysis](https://github.com/Ola-ykay/Global_Trends_in_Mental_Health_Disorder/blob/main/mental-disorder-analysis.png)
 ![Dashboard]()
-![Table]()
+
 
